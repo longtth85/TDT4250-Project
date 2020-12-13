@@ -8,4 +8,4 @@ a person to a movie.
 
 I made it possible to delete and reconnect edges as well as styling where every movie with a score above 9.0/10 got a prefix.
 
-![picture of my work](relative/path/to/imdb.png?raw=true "work")
+![picture of my work](imdb.png?raw=true "work")
