@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/tdt4250.project.feature_1.0.0.202012131632.jar" id="tdt4250.project.feature" version="1.0.0.202012131632">
+      <category name="IMDB"/>
+   </feature>
+   <category-def name="IMDB" label="IMDB"/>
+</site>
